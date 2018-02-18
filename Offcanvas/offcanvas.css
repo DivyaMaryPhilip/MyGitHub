@@ -1,0 +1,42 @@
+body {
+ font-size: 20px;
+  margin-top: 4vh;
+	margin:0;
+	padding: 0;
+  }
+
+.content {
+  font-family: "Lucida Sans Unicode";
+  text-align: center;
+}
+
+h1.content {
+  font-size: 2em ;
+  font-weight: bold;
+}
+
+h2.content {
+  font-weight: bold;
+}
+
+@media screen and (max-width:768px) {
+  .content {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (min-width:769px) {
+  .content {
+    font-size: 1.3em ;
+  }
+}
+
+
+
+
+
+
+
+
+
+
