@@ -1,1 +1,0 @@
-alert("Welome to the Layout Shfit responsive design");
