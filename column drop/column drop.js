@@ -1,1 +1,0 @@
-alert("Introducing you to the world of Column drop responsive design!!!.........")
